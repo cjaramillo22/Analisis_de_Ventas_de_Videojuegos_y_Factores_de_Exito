@@ -92,4 +92,5 @@ Las pruebas estadísticas y el análisis exploratorio proporcionan evidencia só
 ---
 
 ## 👤 Autor
+**Carlos Jaramillo**
 Analista de Datos
